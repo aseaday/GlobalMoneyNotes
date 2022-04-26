@@ -5,7 +5,8 @@ The Awesome Curated List of Global Money Note
 
 - [#1 The Money Market Under Government Control](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&document_id=1048167391&source_id=emrna&serialid=ePoMbkNQvD3cFmVQrLOs4uunEOqBY8SRTC%2bV613VP5c%3d)
 - [#2 A Turbulent Exit](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&document_id=1052207751&source_id=emrna&serialid=rcRxieirQxrwvIfT1nZ5ZLK%2bpKXNyA%2bUIcvglGXBsD0%3d)
-- [Global Money Note #4](https://research-doc.credit-suisse.com/docView?sourceid=em&document_id=x682509&serialid=XzV6W6kii66%2B6SsdSZ0rpA2M1jUfVJkwoq9GntIjPBc%3D)
+- [#3 Flying Blind](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1056163871&serialid=nJE4HbsOHC8EOjrRyzTJUUMTRzwRyi9dZj03jBgPdfI%3D&cspId=null)
+- [#4 A Tool of Their Own – The Foreign RRP Facility](https://research-doc.credit-suisse.com/docView?sourceid=em&document_id=x682509&serialid=XzV6W6kii66%2B6SsdSZ0rpA2M1jUfVJkwoq9GntIjPBc%3D)
 - [Global Money Note #5](https://plus.credit-suisse.com/rpc4/ravDocView?docid=Qm9noK)
 - [Global Money Note #6](https://plus.credit-suisse.com/r/u3OQaT)
 - [Global Money Note #7](https://plus.credit-suisse.com/r/XZKZCI)
