@@ -34,3 +34,7 @@ The Awesome Curated List of Global Money Note
 - [Global Money Note #29](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7ln0S2AN-VHSK)
 - [Global Money Note #30](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7mOOs2AN-SO8)
 - [Global Money Note #31](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7mlTC2AB-Qr4)
+
+# BackGround of the Notes
+
+It is hard to have a really deep understanding about the Zoltan's notes if you havn't experience the things in person. I am working to collect a sereis of data, news and reviews related to the note which I hope it could help you to learn what happend when the notes are written down.
