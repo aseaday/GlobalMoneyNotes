@@ -10,6 +10,8 @@ The Awesome Curated List of Global Money Note
 
 All these links and documents are from Credit Suisse.
 
+##### [All In One](https://github.com/aseaday/GlobalMoneyNotes/raw/main/files/global-money-notes-1-31.pdf)
+
 - [#1 The Money Market Under Government Control](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&document_id=1048167391&source_id=emrna&serialid=ePoMbkNQvD3cFmVQrLOs4uunEOqBY8SRTC%2bV613VP5c%3d)
 - [#2 A Turbulent Exit](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&document_id=1052207751&source_id=emrna&serialid=rcRxieirQxrwvIfT1nZ5ZLK%2bpKXNyA%2bUIcvglGXBsD0%3d)
 - [#3 Flying Blind](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1056163871&serialid=nJE4HbsOHC8EOjrRyzTJUUMTRzwRyi9dZj03jBgPdfI%3D&cspId=null)
@@ -23,12 +25,12 @@ All these links and documents are from Credit Suisse.
 - [Global Money Note #11](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7bFUL2AD-WEpBrM)
 - [Global Money Note #12](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7btnA2AN-VHSK)
 - [Global Money Note #13](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7c62M2AC-WErHg6)
-- [Global Money Note #14](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7dPer2AN-VHSK)
+- [Global Money Note #14](https://github.com/aseaday/GlobalMoneyNotes/raw/main/files/gmn-14.pdf)
 - [Global Money Note #15](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7dPer2AN-VHSK)
 - [Global Money Note #16](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7dhpk2AN-Ytr5)
 - [Global Money Note #17](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7dqUT2AN-Ytr5)
 - [Global Money Note #18](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7eBCg2AN-8SW)
-- [Global Money Note #19](https://plus.credit-suisse.com/rpc4/ravDocView?docid=_XiY82AN-Ytr5)
+- [Global Money Note #19](https://github.com/aseaday/GlobalMoneyNotes/raw/main/files/gmn-19.pdf)
 - [Global Money Note #20](https://plus.credit-suisse.com/rpc4/ravDocView?docid=_XiY82AN-Ytr5)
 - [Global Money Note #21](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7gtUd2AN-VHSK)
 - [Global Money Note #22](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7hgfU2AN-VHSK)
