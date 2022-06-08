@@ -10,7 +10,7 @@ The Awesome Curated List of Global Money Note
 
 All these links and documents are from Credit Suisse.
 
-##### [All In One 1-31](https://github.com/aseaday/GlobalMoneyNotes/raw/main/files/global-money-notes-1-31.pdf)
+**[All In One 1-31](https://github.com/aseaday/GlobalMoneyNotes/raw/main/files/global-money-notes-1-31.pdf)**
 
 By Chapters:
 
