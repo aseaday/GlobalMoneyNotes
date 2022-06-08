@@ -10,7 +10,9 @@ The Awesome Curated List of Global Money Note
 
 All these links and documents are from Credit Suisse.
 
-##### [All In One](https://github.com/aseaday/GlobalMoneyNotes/raw/main/files/global-money-notes-1-31.pdf)
+##### [All In One 1-31](https://github.com/aseaday/GlobalMoneyNotes/raw/main/files/global-money-notes-1-31.pdf)
+
+By Chapters:
 
 - [#1 The Money Market Under Government Control](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&document_id=1048167391&source_id=emrna&serialid=ePoMbkNQvD3cFmVQrLOs4uunEOqBY8SRTC%2bV613VP5c%3d)
 - [#2 A Turbulent Exit](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&document_id=1052207751&source_id=emrna&serialid=rcRxieirQxrwvIfT1nZ5ZLK%2bpKXNyA%2bUIcvglGXBsD0%3d)
